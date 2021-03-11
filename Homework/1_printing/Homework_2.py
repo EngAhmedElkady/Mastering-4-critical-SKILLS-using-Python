@@ -1,0 +1,5 @@
+print("print(\"me\")")
+print("print(\'me\')")
+print("print(\'me\")")
+print("You will learn")
+print(" a LOT")
