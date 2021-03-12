@@ -4,7 +4,7 @@ Almost all other courses focus on knowledge. In this course, we focus on 4 criti
 
 
 
-Overall:
+#Overall:
 
 The course covers basic to advanced modern Python 3 syntax. Beginners will learn a lot!
 
