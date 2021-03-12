@@ -1,10 +1,10 @@
 # Mastering-4-critical-SKILLS-using-Python
-#Description
+# Description
 Almost all other courses focus on knowledge. In this course, we focus on 4 critical skills.
 
 
 
-#Overall:
+# Overall:
 
 The course covers basic to advanced modern Python 3 syntax. Beginners will learn a lot!
 
@@ -28,7 +28,7 @@ This is an English Course only. Full manual English subtitles will also be provi
 
 
 
-Content
+# Content
 
 Fundamentals: Variables, Loops, Control Flow, Lists, Tuples, Sets, Dictionary, Functions, Recursive Functions
 
