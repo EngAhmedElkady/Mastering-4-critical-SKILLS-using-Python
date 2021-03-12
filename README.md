@@ -10,7 +10,7 @@ The course covers basic to advanced modern Python 3 syntax. Beginners will learn
 
 The course helps you master the 4 most important skills for a programmer
 
-Programming skills
+3 Programming skills:
 
 Problem-solving skills: rarely covered by other courses
 
@@ -28,7 +28,7 @@ This is an English Course only. Full manual English subtitles will also be provi
 
 
 
-# Content
+# Content:
 
 Fundamentals: Variables, Loops, Control Flow, Lists, Tuples, Sets, Dictionary, Functions, Recursive Functions
 
