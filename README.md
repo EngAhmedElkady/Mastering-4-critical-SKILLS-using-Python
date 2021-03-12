@@ -10,7 +10,7 @@ The course covers basic to advanced modern Python 3 syntax. Beginners will learn
 
 The course helps you master the 4 most important skills for a programmer
 
-3 Programming skills:
+# Programming skills:
 
 Problem-solving skills: rarely covered by other courses
 
