@@ -32,7 +32,7 @@ This is an English Course only. Full manual English subtitles will also be provi
 
 Fundamentals: Variables, Loops, Control Flow, Lists, Tuples, Sets, Dictionary, Functions, Recursive Functions
 
-Object-Oriented Programming (OOP):
+# Object-Oriented Programming (OOP):
 
 Objects, Classes, Abstraction, Inheritance, Polymorphism, Operator Overloading
 
